@@ -21,7 +21,7 @@ Interest are: Application Development, Bash, AI/ML and Cloud.<a href="https://ww
 <a href="https://kotlinlang.org" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" width="40" />
 </a>
-// README.md
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true)
-// README.md
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact)
