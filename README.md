@@ -1,5 +1,4 @@
-🚀 About Me
-
+🚀 About Me:
 2nd Year in Btech (CSE).
 Android-iOS Developer.
 Languages Known: C, C++, Java, Kotlin.
@@ -24,4 +23,4 @@ Interest are: Application Development, Bash, AI/ML and Cloud.<a href="https://ww
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact&theme=highcontrast)
