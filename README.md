@@ -1,8 +1,9 @@
-🚀 About Me:
-2nd Year in Btech (CSE).
-Android-iOS Developer.
-Languages Known: C, C++, Java, Kotlin.
-Interest are: Application Development, Bash, AI/ML and Cloud.<a href="https://www.cprogramming.com/" target="blank">
+🚀 About Me:<br />
+2nd Year in Btech (CSE).<br />
+Android-iOS Developer.<br />
+Languages Known: C, C++, Java, Kotlin.<br />
+Interest are: Application Development, Bash, AI/ML and Cloud.<br />
+<a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
 </a>
 <a href="https://www.w3schools.com/cpp/" target="blank">
