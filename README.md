@@ -22,6 +22,6 @@ Interest are: Application Development, Bash, AI/ML and Cloud.<a href="https://ww
 <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" width="40" />
 </a>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshGupta01&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AnshGupta01 stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshGupta01&show_icons=true&theme=merko&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AnshGupta01 stats card" /></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshGupta01&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AnshGupta01 stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshGupta01&theme=merko&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AnshGupta01 stats card" /></p>
