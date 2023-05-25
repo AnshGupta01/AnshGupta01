@@ -1,6 +1,6 @@
 🚀 About Me:<br />
 2nd Year in Btech (CSE).<br />
-Android-iOS Developer.<br />
+Android-Java Developer.<br />
 Languages Known: C, C++, Java, Kotlin.<br />
 Interest are: Application Development, Bash, AI/ML and Cloud.<br /><br />
 <a href="https://www.cprogramming.com/" target="blank">
