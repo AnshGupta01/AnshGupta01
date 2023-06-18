@@ -2,7 +2,7 @@
 2nd Year in Btech (CSE).<br />
 Android-Java Developer.<br />
 Languages Known: C, C++, Java, Kotlin.<br />
-Interest are: Application Development, Bash, AI/ML and Cloud.<br /><br />
+Interest are: Application Development, Bash, JAVA and Cloud.<br /><br />
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
 </a>
