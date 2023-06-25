@@ -1,5 +1,5 @@
 🚀 About Me:<br />
-2nd Year in Btech (CSE).<br />
+III Year in Btech (CSE).<br />
 Android-Java Developer.<br />
 Languages Known: C, C++, Java, Kotlin.<br />
 Interest are: Application Development, Bash, JAVA and Cloud.<br /><br />
