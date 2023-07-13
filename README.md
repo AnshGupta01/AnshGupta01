@@ -1,6 +1,6 @@
 🚀 About Me:<br />
 III Year in Btech (CSE).<br />
-Android-Java Developer.<br />
+Java-SpringBoot Developer.<br />
 Languages Known: C, C++, Java, Kotlin.<br />
 Interest are: Application Development, Bash, JAVA and Cloud.<br /><br />
 <a href="https://www.cprogramming.com/" target="blank">
