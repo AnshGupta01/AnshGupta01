@@ -1,7 +1,7 @@
 🚀 About Me:<br />
 III Year in Btech (CSE).<br />
-Java-SpringBoot Developer.<br />
-Languages Known: C, C++, Java, Kotlin.<br />
+Spring Boot & React Developer.<br />
+Languages Known: C, C++, Java, Kotlin. JS, HTML, CSS, Typescript<br />
 Interest are: Application Development, Bash, JAVA and Cloud.<br /><br />
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
