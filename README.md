@@ -1,4 +1,17 @@
-### Hi, Ansh here, student of Btech.CSE in third year. I like working with Spring boot for developing backend servers along with react.js to create usable frontends for them. I've been learning Data structures & Algorithms in JAVA, also I've worked with Python, C, C++, kotlin in the past.
+```
+public static int ADayInLife() {
+  int hours = 1;
+  int sleep = 8;
+  while(!brain.isTired) {
+        keepHustling(); //refers to working on something productive or coding
+        exerciseBody(hours); //important
+    }
+  return sleep;
+}
+```
+
+### Hi, Ansh here, Btech III Year. I like working with Spring boot for developing backend servers along with react.js to create usable frontends for them. 
+I've been learning Data structures & Algorithms in JAVA, also I've worked with Python, C, C++, kotlin in the past.
 
 🚀 About Me:<br />
 - III Year in Btech (CSE).<br />
