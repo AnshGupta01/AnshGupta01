@@ -9,6 +9,7 @@ public static int ADayInLife() {
   return sleep;
 }
 ```
+[![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
 ### Hi, Ansh here, Btech III Year. I like working with Spring boot for developing backend servers along with react.js to create usable frontends for them. 
 I've been learning Data structures & Algorithms in JAVA, also I've worked with Python, C, C++, kotlin in the past.
