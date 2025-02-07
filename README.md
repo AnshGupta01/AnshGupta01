@@ -11,17 +11,16 @@ public static int ADayInLife() {
 ```
 [![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
-### Hi, Ansh here, Btech III Year. I like working with Spring boot for developing backend servers along with react.js to create usable frontends for them. 
-I've been learning Data structures & Algorithms in JAVA, also I've worked with Python, C, C++, kotlin in the past.
+### Hi, Ansh here, Btech Final Year. I work with Spring boot for developing backend servers along with simple React.js to create frontends for them. 
+I've been learning Data structures & Algorithms in JAVA, also I've worked with C, C++, kotlin (Basics for Android Dev) in the past.
 
 🚀 About Me:<br />
-- III Year in Btech (CSE).<br />
+- IV Year in Btech (CSE).<br />
 - Spring Boot & React Developer.<br />
-- Currently learning DSA in JAVA.<br/>
-- Languages Known: C, C++, Java, Kotlin. JS, HTML, CSS, Typescript<br />
-- Interest are: Application Development, Bash, JAVA and Cloud.<br />
+- Currently enhancing DSA in JAVA.<br/>
+- Languages Known: Java, C, C++, Kotlin. JS, Typescript<br />
+- Interest are: Web development, AWS Cloud, Networking.<br />
 - My #100DaysOfCode Journey: https://twitter.com/ansh_gpt/status/1674404333788758017?s=20 <br/> <br/>
-[![My Skills](https://skills.thijs.gg/icons?i=react,spring,java,kotlin,cpp,c,js,html,css,py,git,docker,kubernates)](https://skills.thijs.gg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact&theme=highcontrast)
