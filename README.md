@@ -9,10 +9,8 @@ public static int ADayInLife() {
   return sleep;
 }
 ```
-[![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
-### Hi, Ansh here, Btech Final Year. I work with Spring boot for developing backend servers along with simple React.js to create frontends for them. 
-I've been learning Data structures & Algorithms in JAVA, also I've worked with C, C++, kotlin (Basics for Android Dev) in the past.
+#### I've been learning Data structures & Algorithms in C++, and have recently developed an interest in Machine learning. Also I am fluent with AWS Cloud && Linux kernel.
 
 🚀 About Me:<br />
 - 1st Year M.tech @ IIT KGP (CSE).<br />
@@ -24,6 +22,8 @@ I've been learning Data structures & Algorithms in JAVA, also I've worked with C
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact&theme=highcontrast)
+
+[![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
 🔗 Connect with me:
 
