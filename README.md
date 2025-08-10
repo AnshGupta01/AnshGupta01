@@ -15,11 +15,11 @@ public static int ADayInLife() {
 I've been learning Data structures & Algorithms in JAVA, also I've worked with C, C++, kotlin (Basics for Android Dev) in the past.
 
 🚀 About Me:<br />
-- IV Year in Btech (CSE).<br />
+- 1st Year M.tech @ IIT KGP (CSE).<br />
 - Spring Boot & React Developer.<br />
-- Currently enhancing DSA in JAVA.<br/>
-- Languages Known: Java, C, C++, Kotlin. JS, Typescript<br />
-- Interest are: Web development, AWS Cloud, Networking.<br />
+- Currently enhancing DSA in Cpp.<br/>
+- Languages Known: Java, C, C++, JS/TS<br />
+- Interest are: Machine learning, AWS Cloud, Networking, linux kernel.<br />
 - My #100DaysOfCode Journey: https://twitter.com/ansh_gpt/status/1674404333788758017?s=20 <br/> <br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true) 
@@ -35,11 +35,12 @@ I've been learning Data structures & Algorithms in JAVA, also I've worked with C
  <a href = "https://twitter.com/ansh_gpt"/>
  <img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <!--
- <a href = "https://leetcode.com/Shanmukhi_kairuppala/">
+
+ <a href = "https://takeuforward.org/plus/profile/Anshgpt">
  <img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
  </a>
-
+ 
+ <!--
  <a href = "https://www.hackerrank.com/21241A05M7">
  <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
