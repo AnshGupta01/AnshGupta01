@@ -37,7 +37,7 @@ I'm exploring ML, NLP and DL and a little bit of Systems Programming as well.
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
- <a href="https://leetcode.com/AnshGupta01/">
+ <a href="https://www.leetcode.com/u/anshg2003">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
