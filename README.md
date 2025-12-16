@@ -1,5 +1,5 @@
-```
-public static int ADayInLife() {
+```bash
+int ADayInLife() {
   int hours = 1;
   int sleep = 8;
   while(!brain.isTired) {
@@ -10,18 +10,23 @@ public static int ADayInLife() {
 }
 ```
 
-#### I've been learning Data structures & Algorithms in C++, and have recently developed an interest in Machine learning. Also I am fluent with AWS Cloud && Linux kernel.
+```
+Currently Pursuing my Masters of Computer Science @ IIT KGP.
+I'm exploring ML, NLP and DL and a little bit of Systems Programming as well.
 
-🚀 About Me:<br />
-- 1st Year M.tech @ IIT KGP (CSE).<br />
-- Spring Boot & React Developer.<br />
-- Currently enhancing DSA in Cpp.<br/>
-- Languages Known: Java, C, C++, JS/TS<br />
-- Interest are: Machine learning, AWS Cloud, Networking, linux kernel.<br />
-- My #100DaysOfCode Journey: https://twitter.com/ansh_gpt/status/1674404333788758017?s=20 <br/> <br/>
+🚀 About Me:
+- Masters of CS @ IIT KGP.
+- Currently enhancing DSA in C++.
+- Languages: C++, Python.
+- Interest are: Machine learning, AWS Cloud, Networking, linux kernel.
+```
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=highcontrast&show_icons=true&count_private=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta01&layout=compact&theme=highcontrast)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=transparent&show_icons=true&count_private=true) 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshGupta01&theme=github-compact)
+
+
+
 
 [![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
@@ -31,15 +36,15 @@ public static int ADayInLife() {
   <a href= "https://www.linkedin.com/in/anshexe/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- 
- <a href = "https://twitter.com/ansh_gpt"/>
- <img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
 
- <a href = "https://takeuforward.org/plus/profile/Anshgpt">
- <img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
- </a>
- 
+ <a href="https://leetcode.com/AnshGupta01/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+ <a href="https://takeuforward.org/plus/profile/Anshgpt">
+  <img src="https://img.shields.io/badge/Take%20U%20Forward-000000?style=for-the-badge&logo=https://takeuforward.org/wp-content/uploads/2022/12/cropped-cropped-Favicon.png"/>
+</a>
+
  <!--
  <a href = "https://www.hackerrank.com/21241A05M7">
  <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
@@ -53,7 +58,3 @@ public static int ADayInLife() {
  <img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
  </a> 
  -->
- 
- <a href = "https://AnshG2003@gmail.com">
-<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
