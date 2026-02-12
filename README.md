@@ -21,12 +21,9 @@ I'm exploring ML, NLP and DL and a little bit of Systems Programming as well.
 - Interest are: Machine learning, AWS Cloud, Networking, linux kernel.
 ```
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AnshGupta01&theme=transparent&show_icons=true&count_private=true) 
+![AnshGupta01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshGupta01&theme=vue-dark&hide_border=false)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshGupta01&theme=github-compact)
-
-
-
 
 [![An image of @anshgupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshgupta01)](https://holopin.io/@anshgupta01)
 
